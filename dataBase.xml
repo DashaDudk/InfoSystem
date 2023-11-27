@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataBase>
+	<faculty FACULTY="Faculty of Mathematics">
+		<chair CHAIR="Algebra">
+			<researcher IDENT="1">
+				<name>John</name>
+				<surname>Taylor</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>25.03.2005</dateofreceiving>
+			</researcher>
+			<researcher IDENT="2">
+				<name>Danil</name>
+				<surname>Johnson</surname>
+				<degree>M.D.</degree>
+				<dateofreceiving>12.09.20012</dateofreceiving>
+			</researcher>
+			<researcher IDENT="3">
+				<name>Rachel</name>
+				<surname>Davis</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>18.06.2008</dateofreceiving>
+			</researcher>
+		</chair>
+		<chair CHAIR="Statistics">
+			<researcher IDENT="4">
+				<name>John</name>
+				<surname>Smith</surname>
+				<degree>M.D.</degree>
+				<dateofreceiving>01.05.2015</dateofreceiving>
+			</researcher>
+			<researcher IDENT="5">
+				<name>David</name>
+				<surname>Johnson</surname>
+				<degree>Eng.D.</degree>
+				<dateofreceiving>17.08.2013</dateofreceiving>
+			</researcher>
+			<researcher IDENT="6">
+				<name>Michael</name>
+				<surname>Taylor</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>21.07.2019</dateofreceiving>
+			</researcher>
+		</chair>
+		<chair CHAIR="Geometry">
+			<researcher IDENT="7">
+				<name>Sarah</name>
+				<surname>Davis</surname>
+				<degree>Eng.D.</degree>
+				<dateofreceiving>05.12.2019</dateofreceiving>
+			</researcher>
+			<researcher IDENT="8">
+				<name>Danil</name>
+				<surname>Johnson</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>12.03.2012</dateofreceiving>
+			</researcher>
+			<researcher IDENT="9">
+				<name>Sarah</name>
+				<surname>Anderson</surname>
+				<degree>Eng.D.</degree>
+				<dateofreceiving>15.09.2014</dateofreceiving>
+			</researcher>
+		</chair>
+	</faculty>
+	<faculty FACULTY="Faculty of Medicine">
+		<chair CHAIR="Neurology">
+			<researcher IDENT="10">
+				<name>David</name>
+				<surname>Miller</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>27.11.2012</dateofreceiving>
+			</researcher>
+			<researcher IDENT="11">
+				<name>Rachel</name>
+				<surname>Anderson</surname>
+				<degree>M.D.</degree>
+				<dateofreceiving>16.02.2008</dateofreceiving>
+			</researcher>
+			<researcher IDENT="12">
+				<name>Sarah</name>
+				<surname>Miller</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>23.03.2016</dateofreceiving>
+			</researcher>
+		</chair>
+		<chair CHAIR="Oncology">
+			<researcher IDENT="13">
+				<name>Olivia</name>
+				<surname>Taylor</surname>
+				<degree>Eng.D.</degree>
+				<dateofreceiving>30.02.2010</dateofreceiving>
+			</researcher>
+			<researcher IDENT="14">
+				<name>Olivia</name>
+				<surname>Davis</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>14.11.2016</dateofreceiving>
+			</researcher>
+			<researcher IDENT="15">
+				<name>Danil</name>
+				<surname>Johnson</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>05.07.2005</dateofreceiving>
+			</researcher>
+		</chair>
+		<chair CHAIR="Cardiology">
+			<researcher IDENT="16">
+				<name>Danil</name>
+				<surname>Anderson</surname>
+				<degree>M.D.</degree>
+				<dateofreceiving>15.04.2016</dateofreceiving>
+			</researcher>
+			<researcher IDENT="17">
+				<name>David</name>
+				<surname>Miller</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>09.11.2005</dateofreceiving>
+			</researcher>
+			<researcher IDENT="18">
+				<name>Emily</name>
+				<surname>Taylor</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>04.11.2017</dateofreceiving>
+			</researcher>
+		</chair>
+	</faculty>
+	<faculty FACULTY="Faculty of Physics">
+		<chair CHAIR="Quantum Mechanics">
+			<researcher IDENT="19">
+				<name>David</name>
+				<surname>Davis</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>24.04.2020</dateofreceiving>
+			</researcher>
+			<researcher IDENT="20">
+				<name>Danil</name>
+				<surname>Anderson</surname>
+				<degree>Psy.D.</degree>
+				<dateofreceiving>05.12.2015</dateofreceiving>
+			</researcher>
+			<researcher IDENT="21">
+				<name>Emily</name>
+				<surname>Davis</surname>
+				<degree>Ed.D.</degree>
+				<dateofreceiving>18.10.2018</dateofreceiving>
+			</researcher>
+		</chair>
+	</faculty>
+</dataBase>
